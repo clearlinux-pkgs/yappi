@@ -1,5 +1,5 @@
 PKG_NAME := yappi
-URL = https://files.pythonhosted.org/packages/37/dc/86bbe1822cdc6dbf46c644061bd24217f6a0f056f00162a3697c9bea7575/yappi-1.2.3.tar.gz
+URL = https://files.pythonhosted.org/packages/04/61/189f45ac37eb1540c06be75cebabe1794a8b809cb2878f326e4aa19ad8eb/yappi-1.2.4.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
